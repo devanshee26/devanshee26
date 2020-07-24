@@ -17,14 +17,10 @@ Here are some ideas to get you started:
 ### Hi there!
 
 
-<a href=https://www.facebook.com/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+
 
 
 <a href=http://linkedin.com/devanshee-vankani/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
-
-
-<a href=https://twitter.com/ > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
-
 
 <a href=https://www.instagram.com/devanshee07 > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 
@@ -32,17 +28,17 @@ Here are some ideas to get you started:
 <a href=https://medium.com/@devanshee > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 
 
-<a href=Curious Mind > <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
+<a href=Curious Mind > <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a><br>
 
 #### Let's Connect<br>
 
-#### <br>Name: Devanshee Vankani
+#### <br>Name: Devanshee Vankani<br>
 
 #### Position: Web Developer
 
 #### Email: devansheevankani2000@gmail.com
 
-#### <h4>About Myself: Enthusiast Learner.
+#### <h4>About Myself:<br> Enthusiast Learner.
 I like to explore and learn new technologies. I motivate and get motivated from peers.</h4>
 
 # Education
@@ -56,7 +52,7 @@ I like to explore and learn new technologies. I motivate and get motivated from 
     
     <h4>To: 2022-05</h4>
     
-    <h4>About College: DDU is one the best universities of the state, which is proudly providing quality education since half a century. It not only focuses on academic growth of the student, but also makes the student a better human being.</h4>
+    <h4>About College: <br>DDU is one the best universities of the state, which is proudly providing quality education since half a century. It not only focuses on academic growth of the student, but also makes the student a better human being.</h4>
 
 # Work Experience
 
@@ -80,20 +76,11 @@ I like to explore and learn new technologies. I motivate and get motivated from 
   <h4> Details :I am honored to represent TCS at my university campus.  </h4> 
 </li></ul>
 
-# Projects
 
-<ul>
-<li> <h4>Project Name : </h4> 
-<h4> Project Description : </h4> 
-<h4>  From : </h4> 
- <h4>  to :</h4> 
-<h4>  Github Link :</h4> 
-<h4>  Website Link :</h4> 
- </li></ul>
 
 # Skills
 
-<h4>php,Java,python,JavaScript ,Node.js,.NET Technologies</h4>
+<h4>php, Java ,python, JavaScript , Node.js, .NET Technologies</h4>
 
 # Achievements
 
