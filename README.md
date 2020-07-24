@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <a href=https://medium.com/@devanshee > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 
 
-<a href=Curious Mind > <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a><br>
 
 #### Let's Connect<br>
 
