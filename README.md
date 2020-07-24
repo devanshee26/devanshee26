@@ -14,3 +14,92 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there!
+
+
+<a href=https://www.facebook.com/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+
+
+<a href=http://linkedin.com/devanshee-vankani/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+
+
+<a href=https://twitter.com/ > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+
+
+<a href=https://www.instagram.com/devanshee07 > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+
+
+<a href=https://medium.com/@devanshee > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+
+
+<a href=Curious Mind > <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
+
+#### Let's Connect<br>
+
+#### <br>Name: Devanshee Vankani
+
+#### Position: Web Developer
+
+#### Email: devansheevankani2000@gmail.com
+
+#### <h4>About Myself: Enthusiast Learner.
+I like to explore and learn new technologies. I motivate and get motivated from peers.</h4>
+
+# Education
+
+
+ - <h4>College Name: Dharmsinh Desai University</h4>
+    
+    <h4>Degree: B.tech Computer Engineering</h4>
+    
+    <h4>From:2018-07</h4>
+    
+    <h4>To: 2022-05</h4>
+    
+    <h4>About College: DDU is one the best universities of the state, which is proudly providing quality education since half a century. It not only focuses on academic growth of the student, but also makes the student a better human being.</h4>
+
+# Work Experience
+
+<ul>
+<li><h4> Company Name : Computer Society Of India </h4> 
+  <h4> Work Role : Associate</h4> 
+  <h4> From : July, 2019 </h4> 
+  <h4> to :Present </h4> 
+  <h4> Details :We have organized various technical workshops and seminars on latest technology like Cloud Computing, Machine Learning, Web Development, etc.  </h4> 
+</li> 
+<li><h4> Company Name : National Service Scheme </h4> 
+  <h4> Work Role : Unit Coordinator / Event Coordinator</h4> 
+  <h4> From : December, 2019 </h4> 
+  <h4> to :Present </h4> 
+  <h4> Details :As a leader, I have managed several social activities like Blood Donation Camp, Voting Awareness Camp, Online Digital Poster Competition, etc. </h4> 
+</li> 
+<li><h4> Company Name : Tata Consultancy Services </h4> 
+  <h4> Work Role : Campus Ambassador</h4> 
+  <h4> From : 2020-04 </h4> 
+  <h4> to :Present </h4> 
+  <h4> Details :I am honored to represent TCS at my university campus.  </h4> 
+</li></ul>
+
+# Projects
+
+<ul>
+<li> <h4>Project Name : </h4> 
+<h4> Project Description : </h4> 
+<h4>  From : </h4> 
+ <h4>  to :</h4> 
+<h4>  Github Link :</h4> 
+<h4>  Website Link :</h4> 
+ </li></ul>
+
+# Skills
+
+<h4>php,Java,python,JavaScript ,Node.js,.NET Technologies</h4>
+
+# Achievements
+
+<ul><li>Table Tennis - Mix Doubles, First Runner Up in University</li></ul>
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=devanshee26)
+
+[Developed By Devanshee ♥️](http://gitread.me/#/)
