@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <a href=http://linkedin.com/devanshee-vankani/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
 
-<a href=https://www.instagram.com/devanshee07 > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 
 
 <a href=https://medium.com/@devanshee > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
@@ -88,4 +87,4 @@ I like to explore and learn new technologies. I motivate and get motivated from 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=devanshee26)
 
-[Developed By Devanshee ♥️](http://gitread.me/#/)
+
