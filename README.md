@@ -54,7 +54,9 @@ Here are some ideas to get you started:
    
 <br/>
 <hr>
+
 **My GitHub Activity:**
+<br/>
 
 <a  href="https://github.com/devanshee26">
 
