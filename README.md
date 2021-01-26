@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **devanshee26/devanshee26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,76 +14,63 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2  align="center"> Hello World, I' am Devanshee 🙂 <br/>  </h2>  
+
+<p  align="center">  <samp>Hi, Myself Devanshee Vankani. LEARNING something new or DEVELOPING an existing SKILL has always fascinated me📚📈🔬. Technology not only helps me get the KNOWLEDGE but it also gives me a platform where I can HELP others and CONTRIBUTE my share in the DEVELOPMENT and growth of the MAN-KIND 🎈.
+  
+<hr/>
+
+**About Me:**
+
+:heart: Art | :black_heart: Management | :blue_heart: Developement & Cloud
+- :earth_asia: I'm from Gujarat - India
+- :milky_way: I' m a Resilient Traveller!
+ 
+- :gem: I can motivate you lol
+
+  
+  
+
+<hr/>
+
+**Lets Connect 👽:**
+
+<a href="https://www.linkedin.com/devanshee-vankani"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Devanshee's LinkedIn Profile" height="30" width="30"></a>  <a href="https://medium.com/@devanshee">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Devanshee's Medium Profile" height="30" width="30"></a>  <a href="mailto:devansheevankani2000@gmail.com">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt="Devanshee's Mail" height="30" width="30"></a> <a href="https://github.com/devanshee26">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Devanshee's Mail" height="30" width="30"> </a>
+ 
+ <hr/>
+ 
+ **Tools and Technologies:**
+
+ | <code><img  height="20" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code> | <code><img  height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code> |  <code><img  height="20" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></code> |
+ <code><img  height="20" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code> | <code><img  height="20" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code> | <code><img  height="20" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code> | <code><img  height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code> | 
+
+ | <code><img  height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code> | <code><img  height="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code> | <code><img  height="20" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code> | <code><img  height="20" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"></code> |  <code><img  height="20" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code> |
+  
+ | <code><img  height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> | <code><img  height="20" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code> |<code><img  height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code> | <code><img  height="20" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>| <code><img  height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> |  <code><img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code> | <code><img height="20" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 
 
-
-
-
-<a href=http://linkedin.com/devanshee-vankani/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
-
-
-
-<a href=https://medium.com/@devanshee > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
-
-
-
-#### Let's Connect<br>
-
-#### <br>Name: Devanshee Vankani<br>
-
-#### Position: Web Developer
-
-#### Email: devansheevankani2000@gmail.com
-
-#### <h4>About Myself:<br> Enthusiast Learner.
-I like to explore and learn new technologies. I motivate and get motivated from peers.</h4>
-
-# Education
-
-
- - <h4>College Name: Dharmsinh Desai University</h4>
+  
     
-    <h4>Degree: B.tech Computer Engineering</h4>
-    
-    <h4>From:2018-07</h4>
-    
-    <h4>To: 2022-05</h4>
-    
-    <h4>About College: <br>DDU is one the best universities of the state, which is proudly providing quality education since half a century. It not only focuses on academic growth of the student, but also makes the student a better human being.</h4>
+   
+<br/>
+  
 
-# Work Experience
+<a  href="https://github.com/devanshee26">
 
-<ul>
-<li><h4> Company Name : Computer Society Of India </h4> 
-  <h4> Work Role : Associate</h4> 
-  <h4> From : July, 2019 </h4> 
-  <h4> to :Present </h4> 
-  <h4> Details :We have organized various technical workshops and seminars on latest technology like Cloud Computing, Machine Learning, Web Development, etc.  </h4> 
-</li> 
-<li><h4> Company Name : National Service Scheme </h4> 
-  <h4> Work Role : Unit Coordinator / Event Coordinator</h4> 
-  <h4> From : December, 2019 </h4> 
-  <h4> to :Present </h4> 
-  <h4> Details :As a leader, I have managed several social activities like Blood Donation Camp, Voting Awareness Camp, Online Digital Poster Competition, etc. </h4> 
-</li> 
-<li><h4> Company Name : Tata Consultancy Services </h4> 
-  <h4> Work Role : Campus Ambassador</h4> 
-  <h4> From : 2020-04 </h4> 
-  <h4> to :Present </h4> 
-  <h4> Details :I am honored to represent TCS at my university campus.  </h4> 
-</li></ul>
+  
 
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=devanshee26&theme=buefy&show_icons=true"  />
 
+  
 
-# Skills
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshee26&theme=buefy&layout=compact"  />
 
-<h4>php, Java ,python, JavaScript , Node.js, .NET Technologies</h4>
+  
 
-# Achievements
+</a>
 
-<ul><li>Table Tennis - Mix Doubles, First Runner Up in University</li></ul>
+  
 
+  
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=devanshee26)
-
-
+<br/>
