@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **Lets Connect 👽:**
 
-<a href="https://www.linkedin.com/devanshee-vankani"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Devanshee's LinkedIn Profile" height="30" width="30"></a>  <a href="https://medium.com/@devanshee">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Devanshee's Medium Profile" height="30" width="30"></a>  <a href="mailto:devansheevankani2000@gmail.com">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt="Devanshee's Mail" height="30" width="30"></a> <a href="https://github.com/devanshee26">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Devanshee's Mail" height="30" width="30"> </a>
+<a href="https://www.linkedin.com/in/devanshee-vankani/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Devanshee's LinkedIn Profile" height="30" width="30"></a>  <a href="https://medium.com/@devanshee">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Devanshee's Medium Profile" height="30" width="30"></a>  <a href="mailto:devansheevankani2000@gmail.com">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt="Devanshee's Mail" height="30" width="30"></a> <a href="https://github.com/devanshee26">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Devanshee's Mail" height="30" width="30"> </a>
  
  <hr/>
  
@@ -53,7 +53,8 @@ Here are some ideas to get you started:
     
    
 <br/>
-  
+<hr>
+**My GitHub Activity:**
 
 <a  href="https://github.com/devanshee26">
 
